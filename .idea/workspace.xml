@@ -15,12 +15,20 @@
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1uf9N4eQqsMTVokcvFEe0PFM86I" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cucumberSeleniumJavaWebBase" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SeleniumJava\javaSeleniumWebBase\src\driver" />
       <recent name="D:\SeleniumJava\javaSeleniumWebBase" />
     </key>
   </component>

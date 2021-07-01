@@ -1,0 +1,4 @@
+PageObjects\TranslatePage.class
+utils\GlobalConfig.class
+tests\BasicTest.class
+utils\Common.class
